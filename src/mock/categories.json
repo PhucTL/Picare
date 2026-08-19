@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Giảm Đau",
+    "image": "https://file.hstatic.net/200000211541/file/1_compact.png"
+  },
+  {
+    "id": 2,
+    "name": "Trị Bỏng",
+    "image": "https://file.hstatic.net/200000211541/file/2_compact.png"
+  },
+  {
+    "id": 3,
+    "name": "Sản Phụ Khoa",
+    "image": "https://file.hstatic.net/200000211541/file/3_compact.png"
+  },
+  {
+    "id": 4,
+    "name": "Dược Mỹ Phẩm",
+    "image": "https://file.hstatic.net/200000211541/file/4_compact.png"
+  },
+  {
+    "id": 5,
+    "name": "Hỗ Trợ Hệ Tiêu Hoá",
+    "image": "https://file.hstatic.net/200000211541/file/5_compact.png"
+  },
+  {
+    "id": 6,
+    "name": "Hỗ Trợ Trĩ",
+    "image": "https://file.hstatic.net/200000211541/file/6_compact.png"
+  },
+  {
+    "id": 7,
+    "name": "Thực Phẩm Chức Năng",
+    "image": "https://file.hstatic.net/200000211541/file/7_compact.png"
+  },
+  {
+    "id": 8,
+    "name": "Vitamin và Khoàng Chất",
+    "image": "https://file.hstatic.net/200000211541/file/8_compact.png"
+  },
+  {
+    "id": 9,
+    "name": "Điều Trị Mụn Cóc",
+    "image": "https://file.hstatic.net/200000211541/file/9_compact.png"
+  },
+  {
+    "id": 10,
+    "name": "Chăm Sóc Răng Miệng",
+    "image": "https://file.hstatic.net/200000211541/file/10_compact.png"
+  },
+  {
+    "id": 11,
+    "name": "Chăm Sóc Bé",
+    "image": "https://file.hstatic.net/200000211541/file/11_compact.png"
+  },
+  {
+    "id": 12,
+    "name": "Chăm Sóc Nam Giới",
+    "image": "https://file.hstatic.net/200000211541/file/12_compact.png"
+  },
+  {
+    "id": 13,
+    "name": "Tai Mũi Họng",
+    "image": "https://file.hstatic.net/200000211541/file/13_compact.png"
+  },
+  {
+    "id": 14,
+    "name": "Thuốc",
+    "image": "https://file.hstatic.net/200000211541/file/14_compact.png"
+  }
+]
